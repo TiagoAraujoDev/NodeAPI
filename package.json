@@ -1,0 +1,16 @@
+{
+  "name": "project_1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "building a webservice with only nodejs core modules",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Tiago Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.10"
+  }
+}
